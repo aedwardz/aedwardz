@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a Software Development Intern at [NeverEnding, Inc.] (https://beneverending.com/)
+- 🔭 I’m currently a Software Development Intern at [NeverEnding, Inc.](https://beneverending.com/)
 - 🌱 I’m currently studying computer science at University of California, Irvine!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
