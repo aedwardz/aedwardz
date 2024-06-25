@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software Engineer at NeverEnding, Inc.<br>I am currently studying computer science at University of California, Irvine!<br>I love music, video games, and being outside
+I am a Software Developer Intern at NeverEnding, Inc.<br>I am currently studying computer science at University of California, Irvine!<br>I love music, video games, and being outside
 
 
 ## 🌐 Socials:
